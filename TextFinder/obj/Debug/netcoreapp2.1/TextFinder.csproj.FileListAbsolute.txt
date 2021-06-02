@@ -1,0 +1,11 @@
+C:\Users\maja\Desktop\Magisterka\TextFinder\TextFinder\bin\Debug\netcoreapp2.1\TextFinder.deps.json
+C:\Users\maja\Desktop\Magisterka\TextFinder\TextFinder\bin\Debug\netcoreapp2.1\TextFinder.runtimeconfig.json
+C:\Users\maja\Desktop\Magisterka\TextFinder\TextFinder\bin\Debug\netcoreapp2.1\TextFinder.runtimeconfig.dev.json
+C:\Users\maja\Desktop\Magisterka\TextFinder\TextFinder\bin\Debug\netcoreapp2.1\TextFinder.dll
+C:\Users\maja\Desktop\Magisterka\TextFinder\TextFinder\bin\Debug\netcoreapp2.1\TextFinder.pdb
+C:\Users\maja\Desktop\Magisterka\TextFinder\TextFinder\obj\Debug\netcoreapp2.1\TextFinder.csprojAssemblyReference.cache
+C:\Users\maja\Desktop\Magisterka\TextFinder\TextFinder\obj\Debug\netcoreapp2.1\TextFinder.csproj.CoreCompileInputs.cache
+C:\Users\maja\Desktop\Magisterka\TextFinder\TextFinder\obj\Debug\netcoreapp2.1\TextFinder.AssemblyInfoInputs.cache
+C:\Users\maja\Desktop\Magisterka\TextFinder\TextFinder\obj\Debug\netcoreapp2.1\TextFinder.AssemblyInfo.cs
+C:\Users\maja\Desktop\Magisterka\TextFinder\TextFinder\obj\Debug\netcoreapp2.1\TextFinder.dll
+C:\Users\maja\Desktop\Magisterka\TextFinder\TextFinder\obj\Debug\netcoreapp2.1\TextFinder.pdb
